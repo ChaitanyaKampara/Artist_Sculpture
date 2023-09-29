@@ -14,6 +14,13 @@ ARTIST SCULPTURE :
 2.) DEALING WITH NULL VALUES
 
     * ISNULL()
+      * Artist Reputation : 750
+      * Height : 375
+      * Width : 584
+      * Weight : 587
+      * Material : 764
+      * Transport : 1392
+      * Remote Location : 771
     * DROPNA()
 
 3.) RECTIFYING ERRORS IN DATA :
