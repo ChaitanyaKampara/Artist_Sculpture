@@ -1,7 +1,7 @@
 # Artist_Sculpture
 ARTIST SCULPTURE :
 
-1.) IMPORTING LIBRARIES
+1.) IMPORTING LIBRARIES :
     
     * NUMPY 
     * PANDAS
