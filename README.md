@@ -7,7 +7,7 @@ ARTIST SCULPTURE :
     * PANDAS
     * SEABORN
     * MATPLOTLIB
-    * HANDLING WARNINGS :
+    * HANDLING WARNINGS : 
        import warnings
        warnings.filterwarnings("ignore")
 
