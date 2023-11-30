@@ -16,7 +16,7 @@ ARTIST SCULPTURE :
     * ISNULL()
       * Artist Reputation : 750
       * Height : 375
-      * Width : 584
+      * Width : 584 
       * Weight : 587
       * Material : 764
       * Transport : 1392
