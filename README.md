@@ -13,7 +13,7 @@ ARTIST SCULPTURE :
 
 2.) DEALING WITH NULL VALUES
 
-    * ISNULL()
+    * ISNULL() 
       * Artist Reputation : 750
       * Height : 375
       * Width : 584 
