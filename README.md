@@ -8,7 +8,7 @@ ARTIST SCULPTURE :
     * SEABORN
     * MATPLOTLIB
     * HANDLING WARNINGS : 
-       import warnings
+       import warnings 
        warnings.filterwarnings("ignore")
 
 2.) DEALING WITH NULL VALUES
