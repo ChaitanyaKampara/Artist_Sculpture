@@ -10,7 +10,7 @@ ARTIST SCULPTURE :
     * HANDLING WARNINGS : 
        import warnings 
        warnings.filterwarnings("ignore")
-
+ 
 2.) DEALING WITH NULL VALUES
 
     * ISNULL() 
